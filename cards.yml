@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related local APIs [source: GIT repo]"
   contactDetails:
-    name: "Dragos - Developer"
+    name: "Dragos REFRESH-TEST - Developer"
     email: "dragos@eazybank.com"
   onCallSupport:
     - (412) 419-3491
